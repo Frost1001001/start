@@ -1,0 +1,80 @@
+@CHARSET "UTF-8";
+
+body {
+	background-image:
+		url(http://hqwallpapers4free.com/wallpaper/blue_wood_panels-hq-wallpaper-1136263.jpg);
+	background-size: 100%;
+}
+
+a:hover {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+#impressum {
+	margin-top: 140px;
+}
+
+#start {
+	margin-top: 225px;
+}
+
+#blog {
+	margin-top: 1px;
+}
+
+fieldset {
+	border: 1px;
+	margin-top: 150px;
+	text-align: center;
+	position: middle;
+}
+
+input {
+	border-radius: 20px;
+	box-shadow: 4px 4px #666;
+}
+
+#wcag {
+	margin-top: 100px;
+}
+
+#xhtmlTabelle {
+	background-image:
+		url(http://www.iammusic.tv/wp-content/uploads/2012/11/Black-background-set-wood-on-chanconsultants-jpg.jpg);
+	background-repeat: repeat-y;
+}
+
+#h1Tabelle {
+	text-align: center;
+	text-decoration: underline;
+	color: red;
+}
+
+.h3table {
+	color: green;
+	font-size: 20px;
+}
+
+}
+#table1 {
+	color: #808080;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#thead{
+	background-color: #000000;
+}
+
+.hover:hover {
+	 color: #ffa500;
+        background-color: black;
+        font-weight: bold;
+}
